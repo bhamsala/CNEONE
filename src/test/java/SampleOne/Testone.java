@@ -7,6 +7,7 @@ public class Testone {
        System.out.println("Welcome to One May22");
        System.out.println("Update to One May23");
        System.out.println("Update to One May25");
+       System.out.println("Update to One June25");
 	}
 
 }
